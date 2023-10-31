@@ -1,4 +1,4 @@
-![image](https://github.com/sc3p73r-it/prometheus_slide/assets/140035139/7aacf070-d134-4b33-b87b-4d7e3c70d440)<h1>Prometheus Slide</h1>
+<h1>Prometheus Slide</h1>
 
 <h3>Slide 1</h3>
 [image](https://github.com/sc3p73r-it/prometheus_slide/assets/140035139/6f0d74bb-8800-44f4-be2e-dae76657addb)
