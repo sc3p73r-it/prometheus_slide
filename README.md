@@ -1,7 +1,5 @@
 <h1>Prometheus Slide</h1>
 
-<<<<<<< HEAD
-=======
 <h3>Slide 1</h3>
 <img width="1080" src="https://github.com/sc3p73r-it/prometheus_slide/assets/140035139/6f0d74bb-8800-44f4-be2e-dae76657addb">
 
