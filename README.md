@@ -31,5 +31,5 @@
 <img width="540" src="https://github.com/sc3p73r-it/prometheus_slide/assets/140035139/e37b5da6-2b83-43d4-850e-c6ebae6ec956">
 
 <h3>Slide 11</h3>
-<img wdith="540" src="https://github.com/sc3p73r-it/prometheus_slide/assets/140035139/9cb9e1dd-d397-4570-81a1-c06c48a488b5">
+<img width="540" src="https://github.com/sc3p73r-it/prometheus_slide/assets/140035139/9cb9e1dd-d397-4570-81a1-c06c48a488b5">
 
